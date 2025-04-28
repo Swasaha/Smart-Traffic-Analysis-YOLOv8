@@ -1,0 +1,44 @@
+Timestamp | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+--------------------------------------------------------------------------------
+2025-03-25 23:25:19 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:25:19 | N/A | Auto Rickshaw | Black | N/A
+2025-03-25 23:25:55 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:25:55 | MH04KW1134 | SUV | Gray | Hyundai
+2025-03-25 23:26:07 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:26:07 | MH02DG1950 | Sedan | White | Renault
+2025-03-25 23:26:09 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:26:09 |  | Car & Scooter | White | 
+2025-03-25 23:26:10 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:26:10 |  | Scooter | White | 
+2025-03-25 23:26:18 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:26:18 | N/A | Scooter | Black and White | N/A
+2025-03-25 23:26:20 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:26:20 | 29 | Scooter | White | Honda
+2025-03-25 23:26:20 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:26:20 |  | Motorcycle | White | 
+2025-03-25 23:27:59 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:27:59 | N/A | Auto Rickshaw | White and Gray | Bajaj
+2025-03-25 23:28:01 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:28:01 |  | Auto Rickshaw | Yellow, White | Bajaj
+2025-03-25 23:28:04 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:28:04 | MH12V86898 | Auto Rickshaw | Yellow and Black | Bajaj
+2025-03-25 23:28:13 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:28:13 | N/A | Scooter | Black | N/A
+2025-03-25 23:28:53 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:28:53 | MH12T03725 | Auto Rickshaw | Black/Yellow | Bajaj
+2025-03-25 23:28:57 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:28:57 | 41B 64 | Motorcycle | Black | 
+2025-03-25 23:29:04 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:29:04 | MH41BK4164 | Motorbike | Black | Unknown
+2025-03-25 23:29:06 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:29:06 | N/A | Scooter | White | N/A
+2025-03-25 23:29:08 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:29:08 |  | Motorcycle | White | Activa
+2025-03-25 23:30:59 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:30:59 | 98 | Auto Rickshaw | Black and Yellow | Unknown
+2025-03-25 23:32:14 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:32:14 |  | Van | White | 
+2025-03-25 23:32:15 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:32:15 | N/A | Van | White | Maruti Suzuki
+2025-03-25 23:32:20 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-03-25 23:32:20 | N/A | Truck | White | Mahindra
